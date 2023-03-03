@@ -11,3 +11,5 @@ MultiThreading in Java
 Generics in Java
 
 String in Java
+
+Interfaces in Java
